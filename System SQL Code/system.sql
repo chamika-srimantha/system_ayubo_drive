@@ -1,3 +1,6 @@
+--Use this code for INSERT, VIEW, UPDATE and DELETE records in your system. 
+
+
 --insert records
 create proc SP_Employee_Insert
 @emp_id int,
